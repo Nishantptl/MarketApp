@@ -14,5 +14,5 @@ RecyclerView improves performance and your app's responsiveness, and it reducse 
 
 <h2>About App</h2>
 <li>This is a basic application which I made using RecyclerView. I used one ImageView and two TextView to show grocery and its details. </li>
-<li>Here <b>item_layout.xml</b> file contains the basic structure of one item. <b>item.java</b> file contains strings and int variable for item details.</li>
-<li>Once you install this application, you can see four items on screen. When you scroll down 1st and 2nd item will disappear and you will see last two item.</li>
+<li>Here <b>item_layout.xml</b> file contains the basic structure of one item. <b>item.java</b> file is a model class which defines the structure of the data you want to work with.</li>
+<li>Once you install this application, you can see four items on screen. When you scroll down, 1st and 2nd item will disappear and you will see last two item.</li>
